@@ -1,9 +1,9 @@
-# AB
+# {{title}}
 
-![License Badge](https://img.shields.io/badge/license-MIT-brightgreen)
+![License Badge](https://img.shields.io/badge/license-{{license}}-brightgreen)
 
 ## projectDescription
-undefined
+{{description}}
 
 ## Table of Contents
 - [InstallationInstructions](#installation)
@@ -14,21 +14,21 @@ undefined
 - [Questions](#questions)
 
 ## InstallationInstructions
-undefined
+{{installation}}
 
 ## Utilizations
-undefined
+{{usage}}
 
 ## License
-This project is licensed under the MIT license.
+This project is licensed under the {{license}} license.
 
 ## Contributions
-undefined
+{{contributing}}
 
 ## Tests
-testing now
+{{tests}}
 
 ## Questions
 For any questions, please contact me via:
-- GitHub: [undefined](https://github.com/undefined)
-- Email: [bla@gmail.com](mailto:bla@gmail.com)
+- GitHub: [{{github}}](https://github.com/{{github}})
+- Email: [{{email}}](mailto:{{email}})

@@ -1,0 +1,27 @@
+{
+  "name": "readmejengen",
+  "version": "1.0.0",
+  "description": "an auto generated readme file creator",
+  "main": "indexJenGen.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JT-code-dev/ReadmeJenGen.git"
+  },
+  "keywords": [
+    "readme",
+    "auto",
+    "node"
+  ],
+  "author": "Jennifer Thompson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JT-code-dev/ReadmeJenGen/issues"
+  },
+  "homepage": "https://github.com/JT-code-dev/ReadmeJenGen#readme",
+  "dependencies": {
+    "inquirer": "^12.1.0"
+  }
+}
