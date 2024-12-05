@@ -2,7 +2,7 @@
 ![License Badge](https://img.shields.io/badge/license-MIT-brightgreen)
 
 ## Project Description
-This is a node.js app created to generate professional README files for developers. It will save time and energy, ensure that the README is polished, and that the user includes the most important aspects of a professional readme file. It makes it easy to create one on the fly so that developers can include it effortlessly in their repositories, even if it is a small project.covers the p
+This is a node.js app created to generate professional README files for developers. It will save time and energy, ensure that the README is polished, and that the user includes the most important aspects of a professional readme file. It makes it easy to create one on the fly so that developers can include it effortlessly in their repositories, even if it is a small project, or under intesense time constraints.
 
 ## Table of Contents
 - [Installation](#installation)
@@ -23,6 +23,11 @@ Whenever you are developing a project and are ready to create a readme.md file, 
 <img width="1440" alt="Screenshot 2024-12-04 at 8 34 31 PM" src="https://github.com/user-attachments/assets/be49e9c4-de44-48a0-88bd-7531aca1c86b">
 <img width="1425" alt="Screenshot 2024-12-04 at 8 37 03 PM" src="https://github.com/user-attachments/assets/8019d2c6-7e6b-4c41-8894-bb47a11cc457">
 <img width="1436" alt="Screenshot 2024-12-04 at 8 37 17 PM" src="https://github.com/user-attachments/assets/6b294df4-5ab5-41d7-aa5f-27f388ce6b57">
+
+Link to short video on how it works:
+https://github.com/user-attachments/assets/a3a9e772-60c2-4097-ae93-5eaccd37873e
+
+
 
 
 ## License
