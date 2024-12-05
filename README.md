@@ -36,5 +36,5 @@ There are no formal tests in place aside from running the code. Please run it as
 
 ## Questions
 For any questions, please contact me via:
-- GitHub: [undefined](https://github.com/undefined)
-- Email: [bla@gmail.com](mailto:bla@gmail.com)
+- GitHub: [JT-code-dev](https://github.com/JT-code-dev)
+- Email: [writejthompson@gmail.com](mailto:bla@gmail.com)
